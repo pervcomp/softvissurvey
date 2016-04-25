@@ -4,3 +4,4 @@
 
 * [Original research articles](included-articles.pdf)
 * [Data extraction form](DataExtractionFrom.pdf)
+* [Additional material about thematic analysis](additional-material.pdf)
